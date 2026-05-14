@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and large files
+data/
+datasets/
+VisDrone/
+VisDrone_Dataset/
+*.zip
+*.rar
+*.tar
+*.gz
+
+# Training outputs
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+
+# Secrets
+kaggle.json
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
