@@ -1,36 +1,13 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-env/
-
-# Jupyter
 .ipynb_checkpoints/
 
-# Dataset and large files
-data/
-datasets/
-VisDrone/
+# Dataset files - do not push full dataset
 VisDrone_Dataset/
+visdrone_human_car_fast/
 *.zip
-*.rar
-*.tar
-*.gz
 
-# Training outputs
-runs/
-weights/
-*.pt
-*.onnx
-*.engine
-
-# Secrets
-kaggle.json
-.env
-
-# OS files
+# System
 .DS_Store
-Thumbs.db
+.cache/

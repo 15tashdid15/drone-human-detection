@@ -1,0 +1,7 @@
+path: /content/visdrone_human_car_fast
+train: images/train
+val: images/val
+nc: 2
+names:
+  0: human
+  1: car
