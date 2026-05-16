@@ -83,6 +83,7 @@ YOLOv8n was selected because it is lightweight, fast, and suitable for training 
 Best model path:
 
     /content/drive/MyDrive/internship_project/antlings_final_run_20260516_061807/training_run/weights/best.pt
+    public link: https://drive.google.com/file/d/1Dqlh1Z4AtIYQd6gFf_3PqpnRl2qNvCu7/view?usp=sharing
 
 ## Preprocessing and Augmentation
 
